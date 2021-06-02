@@ -40,8 +40,6 @@ Penn Data Boot Camp Assignment 21 - Machine learning models capable of classifyi
 
 ### Deep Learning
 
-**model.summary()**
-
 *Model: "sequential"*
 Layer (type)                 Output Shape              Param num   
 dense (Dense)                (None, 100)               2100      
