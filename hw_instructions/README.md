@@ -1,6 +1,7 @@
 # Machine Learning Homework - Exoplanet Exploration
 
-![exoplanets](instruction_images/exoplanets.jpg)
+![exoplanets.jpg](../instruction_images/exoplanets.jpg)
+
 
 ### Before You Begin
 
