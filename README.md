@@ -2,6 +2,8 @@
 
 Penn Data Boot Camp Assignment 21 - Machine learning models capable of classifying candidate exoplanets from approximately 10,000 exoplanets examined by the Kepler Space Observatory.
 
+<img src=images/kepler_header_image.jpeg width="80%" alt="Current potential exoplanets, ranked in order of similarity to Earth">
+
 ### Original Data Source:
 [Kepler Exoplanet Search Results - NASA](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)<br>
 [Data Catalog - Data Columns in Kepler Objects of Interest Table](https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html)
